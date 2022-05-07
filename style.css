@@ -1,0 +1,50 @@
+h1 {
+    font-family: "Lobster", sans-serif;
+    font-size: 60px;
+    color: rgb(55, 64, 78);
+    margin: 20px 0;
+}
+
+h3 {
+    font-size: 30px;
+    margin: 0px 0;
+}
+
+h2 {
+    font-size: 40px;
+    margin: 0px 0;
+}
+
+
+.middle {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.big {
+    font-size: 60px;
+    margin: 0px 0;
+}
+
+.gray {
+    color: darkslategray;
+}
+
+.red {
+    color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.round {
+    border-radius: 20px;
+}
