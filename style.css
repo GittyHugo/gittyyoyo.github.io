@@ -48,3 +48,44 @@ h2 {
 .round {
     border-radius: 20px;
 }
+
+.medium {
+    font-size: 50px;
+}
+
+.small {
+    font-size: 30px;
+}
+
+.sargin {
+    margin-left: 100px;
+}
+
+.blue-background {
+    background-color: blue;
+}
+
+.gray-background {
+    background-color: gray;
+}
+
+.yoda-image {
+    width: 40%;
+}
+
+.small-image {
+    width: 15%;
+}
+
+.clear {
+    clear: both;
+}
+
+.menu {
+    clear: both;
+    margin-bottom: 3em;
+}
+
+.wide-image {
+    width: 30%;
+}
