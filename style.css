@@ -89,3 +89,13 @@ h2 {
 .wide-image {
     width: 30%;
 }
+
+.fancy {
+    font-family: "Lobster", sans-serif;
+}
+
+.vl {
+    border-left: 6px red;
+    height: 500px;
+    
+}
